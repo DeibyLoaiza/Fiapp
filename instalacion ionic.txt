@@ -1,0 +1,9 @@
+Instalación de ionic
+
+1- descargar e installar node.js de la pagina principal https://nodejs.org/es/
+2- instalar el apache cordova, entrando al cmd de windows y escribiendo la siguiente sentencia npm install -g cordova
+3- intalar ionic, entrando al cmd de windows y ejecuta el siguiente comando npm install -g ionic
+4- instalar dependencias ejecutando los siguientes comandos
+   npm install -g gulp
+   npm install -g bower
+   gem install sass
